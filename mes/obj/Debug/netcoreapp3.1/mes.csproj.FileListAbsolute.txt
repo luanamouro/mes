@@ -1,0 +1,14 @@
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.csproj.AssemblyReference.cache
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.AssemblyInfoInputs.cache
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.AssemblyInfo.cs
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.csproj.CoreCompileInputs.cache
+C:\imersao_logica\mes\mes\bin\Debug\netcoreapp3.1\mes.exe
+C:\imersao_logica\mes\mes\bin\Debug\netcoreapp3.1\mes.deps.json
+C:\imersao_logica\mes\mes\bin\Debug\netcoreapp3.1\mes.runtimeconfig.json
+C:\imersao_logica\mes\mes\bin\Debug\netcoreapp3.1\mes.runtimeconfig.dev.json
+C:\imersao_logica\mes\mes\bin\Debug\netcoreapp3.1\mes.dll
+C:\imersao_logica\mes\mes\bin\Debug\netcoreapp3.1\mes.pdb
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.dll
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.pdb
+C:\imersao_logica\mes\mes\obj\Debug\netcoreapp3.1\mes.genruntimeconfig.cache
